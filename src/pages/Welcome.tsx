@@ -19,7 +19,7 @@ export function Welcome() {
   const navigation = useNavigation();
 
   function handleStart() {
-    navigation.navigate('UserIndentification')
+    navigation.navigate('UserIdentification')
   }
 
   return (
